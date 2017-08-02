@@ -8,4 +8,6 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 **Description:** This program will notify you when your CPU is higher than threshold in certain time.  
 
 
-
+### Day 2: August 2, Wednesday
+**Project Name:** rgb-cmyk-converter  
+**Description:** Converter for RGB to CMYK and the opposite. Built using PyQt5.  

@@ -11,3 +11,15 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 ### Day 2: August 2, Wednesday
 **Project Name:** rgb-cmyk-converter  
 **Description:** Converter for RGB to CMYK and the opposite. Built using PyQt5.  
+**Progress:** Adding the gui view. Having some trouble while try to manage layout  
+
+
+### Day 3: August 3, Thursday
+**Project Name:** rgb-cmyk-converter  
+**Description:** Converter for RGB to CMYK and the opposite. Built using PyQt5.  
+**Progress:** Add textChanged event and fixing some bugs. Finished.  
+
+
+### Day 4: August 4, Friday
+**Project Name:**  
+**Description:**  

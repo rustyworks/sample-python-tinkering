@@ -21,5 +21,10 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 
 
 ### Day 4: August 4, Friday
+**Project Name:**  indonesian-kbbi  
+**Description:**  Indonesian KBBI, use kbbi.web.id and parse its html using beautiful soup  
+
+
+### Day 5: August 5, Saturday
 **Project Name:**  
 **Description:**  

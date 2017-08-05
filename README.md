@@ -26,5 +26,10 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 
 
 ### Day 5: August 5, Saturday
+**Project Name:**  bash-history-cleaner  
+**Description:**  This will remove all duplicate bash command  
+
+
+### Day 6: August 6, Sunday
 **Project Name:**  
 **Description:**  

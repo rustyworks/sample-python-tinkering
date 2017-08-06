@@ -31,5 +31,10 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 
 
 ### Day 6: August 6, Sunday
+**Project Name:**  bash-history-cleaner  
+**Description:**  Add sqlite3 history of command and refactor a bit  
+
+
+### Day 7: August 7, Sunday
 **Project Name:**  
 **Description:**  

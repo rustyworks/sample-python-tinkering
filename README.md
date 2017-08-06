@@ -35,6 +35,6 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 **Description:**  Add sqlite3 history of command and refactor a bit  
 
 
-### Day 7: August 7, Sunday
-**Project Name:**  
-**Description:**  
+### Day 7: August 7, Monday
+**Project Name:**  simple-bot (read documentation only)  
+**Description:**  Right now I just read the documentation how to create the bot. Maybe next day I will create slack-bot or telegram-bot  

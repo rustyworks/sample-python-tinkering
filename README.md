@@ -38,3 +38,8 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 ### Day 7: August 7, Monday
 **Project Name:**  simple-bot (read documentation only)  
 **Description:**  Right now I just read the documentation how to create the bot. Maybe next day I will create slack-bot or telegram-bot  
+
+
+### Day 8: August 8, Tuesday
+**Project Name:**  slack-bot-for-reddit-trending  
+**Description:**  Finally finishing the slack bot used for searching the trending in subreddit  

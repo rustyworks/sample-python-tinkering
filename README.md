@@ -43,3 +43,13 @@ Project of mine for resharping my skills, all coded in python. (I use python 3.5
 ### Day 8: August 8, Tuesday
 **Project Name:**  slack-bot-for-reddit-trending  
 **Description:**  Finally finishing the slack bot used for searching the trending in subreddit  
+
+
+### Day 9: August 9, Wednesday
+**Project Name:**  fractal  
+**Description:**  The basic ideas is from Koch Snowflakes fractal. But imperfect :(  
+
+
+### Day 10: August 10, Thursday
+**Project Name:**  
+**Description:**  
